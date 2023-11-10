@@ -1,1 +1,3 @@
-# BharatIntern_Task2
+The HTML code creates a basic web page with two input fields one for Celsius and one for Fahrenheit and a button to trigger the conversion. The input field for Fahrenheit is set to "readonly" so that the user cannot enter a value directly.
+CSS code styles the various elements on the web page, including the font, input fields, and button.
+The JavaScript code defines a function called "convert" that performs the temperature conversion from Celsius to Fahrenheit. It reads the value entered in the Celsius input field, performs the conversion using the formula (C * 1.8 + 32) and updates the value of the Fahrenheit input field with the result.
